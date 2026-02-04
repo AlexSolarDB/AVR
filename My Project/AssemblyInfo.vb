@@ -9,10 +9,10 @@ Imports System.Runtime.InteropServices
 ' Проверьте значения атрибутов сборки
 
 <Assembly: AssemblyTitle("AVR")>
-<Assembly: AssemblyDescription("Программа для подготовки документов для подачи заявки на ордер для АВР")>
+<Assembly: AssemblyDescription("Программа для подготовки документов для ордеров и ведения рабочих таблиц")>
 <Assembly: AssemblyCompany("")>
 <Assembly: AssemblyProduct("AVR")>
-<Assembly: AssemblyCopyright("Aleksey Velit © 2025")>
+<Assembly: AssemblyCopyright("Aleksey Velit © 2026")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
@@ -28,5 +28,5 @@ Imports System.Runtime.InteropServices
 '      Редакция
 '
 
-<Assembly: AssemblyVersion("3.2.0")>
-<Assembly: AssemblyFileVersion("3.2.0")>
+<Assembly: AssemblyVersion("4.0.0")>
+<Assembly: AssemblyFileVersion("4.0.0")>
